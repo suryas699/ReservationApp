@@ -1,0 +1,11 @@
+.navigation {
+  width: 100%;
+  min-height: 6vh;
+  border-width: thick;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #eee;
+  color: black;
+}
